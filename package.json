@@ -1,0 +1,22 @@
+{
+  "name": "fe-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AwesomeDevDen/fe-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AwesomeDevDen/fe-test/issues"
+  },
+  "homepage": "https://github.com/AwesomeDevDen/fe-test#readme",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
+}
